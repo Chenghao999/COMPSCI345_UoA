@@ -1,4 +1,4 @@
-# COMPSCI345_UoA
+# Note for COMPSCI345_UoA
 
 ## Introduction
 Hi! 

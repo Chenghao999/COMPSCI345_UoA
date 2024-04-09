@@ -8,5 +8,5 @@ I just Sharing any notes for University of Auckland's **Computer Science 345 Hum
 
 ## Guide 
 
-I use [Typora](https://typora.io) for taking notes，so I suggest using Typora to view this files is better. I also upload PDF/HTML edition for did not install Typora.
+I am using [Typora](https://typora.io) for taking notes，so I suggest using Typora to view this files is better. I also upload PDF/HTML edition for did not install Typora.
 

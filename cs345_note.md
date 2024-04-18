@@ -585,7 +585,121 @@ All parts of our design have some commonality so that they are perceived as a wh
 ​	*e.g. 仪表盘把 速度 和 转速 放在仪表盘的中心 把 气温等其他不重要信息放在四周*
 
 
-
 # Week 05 Prototyping with **Figma**
 
-## High Fidelity Protying 
+## High Fidelity Protying
+
+
+
+## Inclusive design
+
+- A design methodology that enables and draws on the full range of human diversity（多样性）. 
+
+- It is to include users who feel excluded. 
+
+## Universal/Assistive/Accessible/Usable
+
+- Accessible 
+  - It is an attribute, attribute, whereas whereas inclusive inclusive is is a a method. method. More More focused on disability
+
+* Assistive 
+  * Specific tools or devices for disability.
+* Usable 
+  * Ease of use of a product/service
+
+##  **Principles of Inclusive Design**
+
+1. Recognize Exclusion
+   As a human being, we are naturally biased. However, exclusion happens when we solve we solve problems with biases.
+
+2. Learn From Diversity
+
+   People are not only diverse in terms of their current agenda/perspective/context, but its People are not only diverse in terms of their current change in time. We need to understand this change.
+
+3. Solve for one, extend to many
+
+   Humans are unique, yet still universal in the general sense of how we experience the in the we experience the world.
+
+   As we we design design for for a a target user, it it potentially benefits others too.
+
+# Week 06
+
+## Colour
+
+## **Additive** and **subtractive** Colour model
+
+1. Additive: for mixing coloured emitted light, *e.g. on an emitting screen/projector. The three primary colours are matching our cone cells:
+
+
+   - Red
+
+   - Green
+
+   - Blue
+
+<div style="text-align: left;">
+    <img src="./cs345_note.assets/image-20240418221203200.png" alt="loading error " style="width: 5cm;">
+</div>
+
+
+
+
+2. Subtractive: for mixing (preferably transparent) paints, dyes are subtractive since they take the light out. Primary colours:
+
+
+      - Cyan: filters out red 
+
+
+
+      - Magenta: filters out green 
+      
+
+
+      - Yellow: filters out blue
+
+
+<div style="text-align: left;">
+    <img src="./cs345_note.assets/image-20240418222455443.png" alt="loading error " style="width: 5cm;">
+</div>
+
+
+
+### Hue: Colour wheel
+
+* In the colour wheel, the primary colours of each system are secondary colours of the other system; these six colours are placed **60 degrees** apart from the neighbours.
+
+<div style = "text-align: left;">
+	<img src = "./cs345_note.assets/image-20240418223442034.png" alt ="loading error" style ="width: 5cm;" >
+</div>
+
+
+
+### Colour Schemes: Analogous（类比色） & Complimentary（互补色）
+
+#### Analogous 相似的
+
+* Colours that are adjacent（相邻的） on the colour wheel.
+
+  * The hues may vary in value.
+
+  * Analogous colour schemes look harmonious协调.
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Vocab
+
+`saturation`饱和度
+
+`Analogous`相似的
+
+``

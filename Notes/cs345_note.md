@@ -227,6 +227,7 @@ Scenarios capture typical tasks for a persona to be applied to
 
 
 
+
 Prime pixel
 
 ​	\- Point  where the user will carry out their action
@@ -646,16 +647,12 @@ All parts of our design have some commonality so that they are perceived as a wh
 
 2. Subtractive: for mixing (preferably transparent) paints, dyes are subtractive since they take the light out. Primary colours:
 
+   * Cyan: filters out red 
 
-      - Cyan: filters out red 
+   * Magenta: filters out green 
 
+   * Yellow: filters out blue
 
-
-      - Magenta: filters out green 
-      
-
-
-      - Yellow: filters out blue
 
 
 <div style="text-align: left;">
@@ -673,7 +670,6 @@ All parts of our design have some commonality so that they are perceived as a wh
 </div>
 
 
-
 ### Colour Schemes: Analogous（类比色） & Complimentary（互补色）
 
 #### Analogous 相似的
@@ -681,14 +677,63 @@ All parts of our design have some commonality so that they are perceived as a wh
 * Colours that are adjacent（相邻的） on the colour wheel.
 
   * The hues may vary in value.
-
-  * Analogous colour schemes look harmonious协调.
-
+* Analogous colour schemes look harmonious协调.
 
 
 
+## Web Technology for **high-fidelity** Prototypes
+
+### The Web client side technology core
+
+1. The compound of technologies needed to program one client application in the browser:
+
+- HTML (Hypertext Markup Language):
+  * The content language
+
+- CSS (Cascading Style Sheets):
+  * The formatting language
+
+- Javascript: The dynamic programming language.
+
+2. Document Object Model (DOM) in Javascript.
+
+### Web Rescource
+
+§ ://developer.mozilla.org/en-US/docs/Learn 
+
+Learn Web Development 
+
+MDN web docs
+
+§ https://www.w3schools.com/ 
+
+Web tutorials, demos, templates, reference, courses
+
+### Example Stylesheet W3.CSS
+
+§ Presented as a low-footprint design lib.
+
+§ Enables responsive design: design that works on many form factors.
+
+§ Browser-independence
+
+§ https://www.w3schools.com/w3css/ § Comes with learning resources and library of templates
+
+§ https://www.w3schools.com/w3css/w3css_templates.asp
+
+### Color Web
+
+Find **Color Complimentary** https://www.sessions.edu/color-calculator/
+
+https://colorffy.com go `tool` ->` color scheme`
+
+## Remarks on Semantic HTML
+
+![image-20240425000756201](./cs345_note.assets/image-20240425000756201.png)
 
 
+
+## Dynamic UI Implementation
 
 
 
@@ -701,5 +746,11 @@ All parts of our design have some commonality so that they are perceived as a wh
 `saturation`饱和度
 
 `Analogous`相似的
+
+`Complimentary` 互补色
+
+``
+
+
 
 ``

@@ -5,7 +5,7 @@
 Hi！
 My nam is Chenghao Li (李成浩). I am studying Bsc major in Computer Sciene and Statistic at The Universaty of Auckland. That is my third year.
 
-I just Sharing any notes for University of Auckland's **Computer Science 345 Human interaction** in 2024 Semester 2. (I could not put images from my notes，because of Copyright\_ ). I will upload file weekly.
+I just Sharing any notes for University of Auckland's **Computer Science 345 Human interaction** in 2024 Semester 2. (_I could not put images from my notes，because of Copyright_ ). I will upload file weekly.
 
 ## Guide
 
